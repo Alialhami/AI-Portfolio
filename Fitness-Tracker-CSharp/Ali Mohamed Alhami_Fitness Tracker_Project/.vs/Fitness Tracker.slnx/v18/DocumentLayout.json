@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\fitness tracker\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|solutionrelative:fitness tracker\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\fitness tracker\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|solutionrelative:fitness tracker\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\fitness tracker\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|solutionrelative:fitness tracker\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\fitness tracker\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|solutionrelative:fitness tracker\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|c:\\users\\hp\\downloads\\ddocp\\general topics\\fitness tracker\\fitness tracker\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|solutionrelative:fitness tracker\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\fitness tracker\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|solutionrelative:fitness tracker\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\fitness tracker\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|solutionrelative:fitness tracker\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\fitness tracker\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|solutionrelative:fitness tracker\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\fitness tracker\\fitnesstrackermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|solutionrelative:fitness tracker\\fitnesstrackermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\fitness tracker\\yoga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|solutionrelative:fitness tracker\\yoga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\fitness tracker\\walking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|solutionrelative:fitness tracker\\walking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\fitness tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|solutionrelative:fitness tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\fitness tracker\\weightlifting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|solutionrelative:fitness tracker\\weightlifting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\fitness tracker\\swimming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|solutionrelative:fitness tracker\\swimming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\fitness tracker\\running.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|solutionrelative:fitness tracker\\running.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\fitness tracker\\cycling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2969D149-C993-43AA-9D66-27076C46D2C5}|Fitness Tracker\\Fitness Tracker.csproj|solutionrelative:fitness tracker\\cycling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\User.cs",
+              "RelativeDocumentMoniker": "Fitness Tracker\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\User.cs",
+              "RelativeToolTip": "Fitness Tracker\\User.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwC0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T10:42:41.453Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Walking.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\Walking.cs",
+              "RelativeDocumentMoniker": "Fitness Tracker\\Walking.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\Walking.cs",
+              "RelativeToolTip": "Fitness Tracker\\Walking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T10:43:26.746Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Swimming.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\Swimming.cs",
+              "RelativeDocumentMoniker": "Fitness Tracker\\Swimming.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\Swimming.cs",
+              "RelativeToolTip": "Fitness Tracker\\Swimming.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T10:43:57.186Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Running.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\Running.cs",
+              "RelativeDocumentMoniker": "Fitness Tracker\\Running.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\Running.cs",
+              "RelativeToolTip": "Fitness Tracker\\Running.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T10:44:12.545Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cycling.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\Cycling.cs",
+              "RelativeDocumentMoniker": "Fitness Tracker\\Cycling.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\Cycling.cs",
+              "RelativeToolTip": "Fitness Tracker\\Cycling.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T10:44:26.974Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Weightlifting.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\Weightlifting.cs",
+              "RelativeDocumentMoniker": "Fitness Tracker\\Weightlifting.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\Weightlifting.cs",
+              "RelativeToolTip": "Fitness Tracker\\Weightlifting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T10:44:42.231Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Yoga.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\Yoga.cs",
+              "RelativeDocumentMoniker": "Fitness Tracker\\Yoga.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\Yoga.cs",
+              "RelativeToolTip": "Fitness Tracker\\Yoga.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T10:45:03.753Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FitnessTrackerManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\FitnessTrackerManager.cs",
+              "RelativeDocumentMoniker": "Fitness Tracker\\FitnessTrackerManager.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\FitnessTrackerManager.cs",
+              "RelativeToolTip": "Fitness Tracker\\FitnessTrackerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T10:03:24.834Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmRegister.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\frmRegister.cs",
+              "RelativeDocumentMoniker": "Fitness Tracker\\frmRegister.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\frmRegister.cs",
+              "RelativeToolTip": "Fitness Tracker\\frmRegister.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T12:44:10.42Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\frmMain.cs",
+              "RelativeDocumentMoniker": "Fitness Tracker\\frmMain.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\frmMain.cs",
+              "RelativeToolTip": "Fitness Tracker\\frmMain.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAqwPsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:29:56.587Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Fitness Tracker\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\frmLogin.cs",
+              "RelativeToolTip": "Fitness Tracker\\frmLogin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T09:58:06.185Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\Program.cs",
+              "RelativeDocumentMoniker": "Fitness Tracker\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\Program.cs",
+              "RelativeToolTip": "Fitness Tracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T19:16:44.014Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\Activity.cs",
+              "RelativeDocumentMoniker": "Fitness Tracker\\Activity.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\Activity.cs",
+              "RelativeToolTip": "Fitness Tracker\\Activity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T10:43:09.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\frmMain.cs",
+              "RelativeDocumentMoniker": "Fitness Tracker\\frmMain.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\frmMain.cs [Design]",
+              "RelativeToolTip": "Fitness Tracker\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T09:32:05.628Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmRegister.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\frmRegister.cs",
+              "RelativeDocumentMoniker": "Fitness Tracker\\frmRegister.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\frmRegister.cs [Design]",
+              "RelativeToolTip": "Fitness Tracker\\frmRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T09:33:41.498Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Fitness Tracker\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\DDOCP\\general topics\\Fitness Tracker\\Fitness Tracker\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Fitness Tracker\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T01:59:33.038Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
