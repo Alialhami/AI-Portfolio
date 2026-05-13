@@ -1,0 +1,92 @@
+<!-- ==========================================
+     Bean Boutique -   Special Offers Page
+     Author: Ali Mohamed ALI AGHA AL HAMI
+     Student ID: 216968
+     Date: 26/04/2026
+     ========================================== -->
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bean Boutique - Special Offers & Subscriptions</title>
+    <link rel="stylesheet" href="Style.CSS">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <!-- same header -->
+        <div class="logo"><h1>Bean Boutique</h1></div>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="coffee-selection.html">Coffee Selection</a></li>
+                <li><a href="brewing-equipment.html">Brewing Equipment</a></li>
+                <li><a href="events.html">Events & Workshops</a></li>
+                <li><a href="cart.html">Cart</a></li>
+                <li><a href="special-offers.html" class="active">Special Offers</a></li>
+            </ul>
+            <div class="hamburger"><span></span><span></span><span></span></div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="page-header">
+            <h2>Special Offers & Subscriptions</h2>
+        </section>
+
+        <section class="promo-banner">
+            <h3>Limited Time: Free Shipping on Orders Over £30</h3>
+            <p>Use code: BEANFREE at checkout.</p>
+        </section>
+
+        <section class="subscription-plans">
+            <h3>Bean Subscription</h3>
+            <p>Fresh coffee delivered to your door. Choose your plan:</p>
+            <div class="plan-cards">
+                <div class="plan-card">
+                    <h4>Weekly Explorer</h4>
+                    <p>250g bag of single-origin coffee each week.</p>
+                    <p class="price">£12.99 / week</p>
+                    <button class="btn subscribe-btn" data-plan="Weekly Explorer">Subscribe</button>
+                </div>
+                <div class="plan-card">
+                    <h4>Bi-Weekly Classic</h4>
+                    <p>500g of our signature blend every two weeks.</p>
+                    <p class="price">£19.99 / delivery</p>
+                    <button class="btn subscribe-btn" data-plan="Bi-Weekly Classic">Subscribe</button>
+                </div>
+                <div class="plan-card">
+                    <h4>Monthly Connoisseur</h4>
+                    <p>1kg of rotating premium beans plus tasting notes.</p>
+                    <p class="price">£34.99 / month</p>
+                    <button class="btn subscribe-btn" data-plan="Monthly Connoisseur">Subscribe</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Simple subscription modal (not fully functional) -->
+        <div id="subscribeModal" class="modal hidden">
+            <div class="modal-content">
+                <span class="close-sub">&times;</span>
+                <h3>Subscribe to <span id="planName"></span></h3>
+                <form id="subscribeForm">
+                    <input type="email" placeholder="Your email" required>
+                    <button type="submit" class="btn">Confirm Subscription</button>
+                </form>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <!-- same footer -->
+    </footer>
+
+    <script src="script-offers.js"></script>
+</body>
+</html>

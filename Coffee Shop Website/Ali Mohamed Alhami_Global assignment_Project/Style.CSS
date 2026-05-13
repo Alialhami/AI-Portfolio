@@ -1,0 +1,579 @@
+/* ==========================================
+   Bean Boutique - Main Style sheet
+   Author: Ali Mohamed ALI AGHA AL HAMI
+   Student ID: 216968
+   ========================================== */
+
+/* ===== CSS for Bean Boutique  */
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #faf7f2;
+}
+
+/* ----- this is the Header & Navigation  ----- */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 5%;
+    background-color: #3e2723;
+    color: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.logo h1 {
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+
+nav {
+    display: flex;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+}
+
+.nav-links li {
+    margin-left: 1.5rem;
+}
+
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 0.5rem 0;
+    transition: color 0.3s, border-bottom 0.3s;
+    border-bottom: 2px solid transparent;
+}
+
+.nav-links a:hover,
+.nav-links a.active {
+    color: #d7ccc8;
+    border-bottom: 2px solid #d7ccc8;
+}
+
+/*  here we have Hamburger menu for mobile  */
+.hamburger {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+}
+.hamburger span {
+    width: 25px;
+    height: 3px;
+    background: #fff;
+    margin: 3px 0;
+    transition: 0.3s;
+}
+
+/* ----- here the code for Slideshow (Home Page) ----- */
+.slideshow-container {
+    position: relative;
+    max-width: 1200px;
+    margin: 2rem auto;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.slide {
+    display: none;
+}
+
+.slide img {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+
+.slide-text {
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+    background-color: rgba(62, 39, 35, 0.8);
+    color: #fff;
+    padding: 0.8rem 1.5rem;
+    border-radius: 30px;
+    font-size: 1.5rem;
+}
+
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -22px;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    background-color: rgba(0,0,0,0.3);
+}
+
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+.prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8);
+}
+
+.fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+@keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+}
+
+/* ----- Here the Sections & Cards ----- */
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 5%;
+}
+
+.page-header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.welcome {
+    text-align: center;
+    margin: 3rem 0;
+}
+
+.infographics {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+}
+
+.info-item {
+    flex: 1 1 150px;
+    margin: 1rem;
+    padding: 1.5rem;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.info-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0,0,0,0.1);
+}
+
+.info-item i {
+    font-size: 2.5rem;
+    color: #6d4c41;
+    margin-bottom: 0.5rem;
+}
+
+.product-grid, .equipment-grid, .plan-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.product-card, .equipment-card, .plan-card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 1.5rem;
+    text-align: center;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.05);
+    transition: all 0.3s;
+}
+
+.product-card:hover, .equipment-card:hover {
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+.product-card img, .equipment-card img {
+    width: 100%;
+    height: 480px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+.tip {
+    font-style: italic;
+    color: #6d4c41;
+    margin: 0.5rem 0;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #6d4c41;
+    color: #fff;
+    padding: 0.7rem 1.5rem;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background 0.3s, transform 0.1s;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color: #5d4037;
+}
+
+.btn-secondary {
+    background-color: #bcaaa4;
+    color: #333;
+}
+.btn-secondary:hover {
+    background-color: #a1887f;
+}
+
+/* ----- the code for Modal Popup  ----- */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 10% auto;
+    padding: 2rem;
+    border: 1px solid #888;
+    width: 90%;
+    max-width: 500px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    position: relative;
+}
+
+.close, .close-sub {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close:hover, .close-sub:hover {
+    color: #000;
+}
+
+/* -----  here the Search Bar for (Animated Text Search) ----- */
+.search-container {
+    position: relative;
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+#coffeeSearch {
+    width: 100%;
+    padding: 12px 40px 12px 20px;
+    border: 2px solid #d7ccc8;
+    border-radius: 40px;
+    font-size: 1rem;
+    outline: none;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+#coffeeSearch:focus {
+    border-color: #6d4c41;
+    box-shadow: 0 0 8px rgba(109,76,65,0.3);
+}
+
+.search-icon {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    color: #8d6e63;
+}
+
+/* Animated text search results highlight (JS) */
+.catalogue-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.coffee-item {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    transition: 0.3s;
+}
+
+.coffee-item.highlight {
+    background-color: #fff8e1;
+    border-left: 5px solid #ffb300;
+    animation: pulse 1s;
+}
+
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.02); }
+    100% { transform: scale(1); }
+}
+
+/* ----- here we have Events Registration Form ----- */
+.registration-form {
+    background: #f5f0eb;
+    padding: 2rem;
+    border-radius: 12px;
+    margin: 2rem 0;
+}
+
+.registration-form.hidden {
+    display: none;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 0.3rem;
+    font-weight: 500;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 0.7rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 1rem;
+}
+
+/* The reCAPTCHA margin */
+.g-recaptcha {
+    margin: 1rem 0;
+}
+
+/* -----The  Shopping Cart  ----- */
+#cart-items {
+    margin-bottom: 2rem;
+}
+
+.cart-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #fff;
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.cart-item button {
+    background: #d32f2f;
+    color: white;
+    border: none;
+    padding: 0.3rem 0.8rem;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+#cart-summary {
+    text-align: right;
+    font-size: 1.3rem;
+    margin-top: 1rem;
+}
+
+/* ----- The Footer  ----- */
+footer {
+    background: #3e2723;
+    color: #f5f0eb;
+    padding: 2rem 5% 1rem;
+    margin-top: 3rem;
+}
+
+.footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 2rem;
+}
+
+.footer-section {
+    flex: 1 1 200px;
+}
+
+.footer-section h4 {
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #8d6e63;
+    padding-bottom: 0.5rem;
+}
+
+.footer-section ul {
+    list-style: none;
+}
+
+.footer-section ul li {
+    margin-bottom: 0.5rem;
+}
+
+.footer-section a {
+    color: #d7ccc8;
+    text-decoration: none;
+}
+
+.footer-section a:hover {
+    color: #fff;
+}
+
+.copyright {
+    text-align: center;
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid #5d4037;
+}
+
+/* ----- the Responsive Design  ----- */
+@media screen and (max-width: 768px) {
+    .nav-links {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        position: absolute;
+        top: 70px;
+        left: 0;
+        background: #3e2723;
+        padding: 1rem 0;
+    }
+    .nav-links.active {
+        display: flex;
+    }
+    .nav-links li {
+        margin: 0.5rem 0;
+        text-align: center;
+    }
+    .hamburger {
+        display: flex;
+    }
+    .slide img {
+        height: 250px;
+    }
+    .slide-text {
+        font-size: 1.2rem;
+        bottom: 15px;
+        left: 15px;
+    }
+    .footer-content {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+/* the Map container */
+#map {
+    height: 300px;
+    width: 100%;
+    border-radius: 12px;
+    margin: 1rem 0;
+}
+
+/* the Carousel reviews */
+.carousel {
+    position: relative;
+    background: #fff;
+    padding: 1.5rem;
+    border-radius: 12px;
+    margin: 1rem 0;
+}
+
+.carousel-inner .review {
+    display: none;
+}
+
+.carousel-inner .review.active {
+    display: block;
+}
+
+.carousel-prev, .carousel-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0,0,0,0.2);
+    border: none;
+    font-size: 1.5rem;
+    padding: 0.5rem;
+    cursor: pointer;
+}
+.carousel-prev { left: 0; }
+.carousel-next { right: 0; }
+
+
+/* ----- The Map Container ----- */
+.map-container {
+    margin: 1.5rem auto;
+    max-width: 100%;            /* fits on all screens */
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.map-container iframe {
+    width: 100%;
+    height: 350px;
+    border: none;
+}
+
+.address {
+    text-align: center;
+    font-size: 1.1rem;
+    color: #5d4037;
+    margin-top: 0.5rem;
+}
+
+
+
+.coffee-item img {
+    width: 100%;
+    height: 380px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+
+
+
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    border: 0;
+}
+
+
